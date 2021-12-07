@@ -10,4 +10,4 @@ saveFile = open(where, 'w')
 saveFile.write("login: " + login + "            " +"Password: " + passz)
 saveFile.close()
 
-# python3 storing-input-python.py
+# python3 storing-input.py
