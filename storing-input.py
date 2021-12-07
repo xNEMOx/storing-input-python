@@ -1,5 +1,5 @@
 #Getting Where To Save File
-where = ('/Users/neymatgasimli/Desktop/Python-BlockChain/storage.txt')
+where = ('storage.txt')
 
 #Getting What To Write To File
 login = input("Login: ")
